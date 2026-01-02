@@ -92,13 +92,7 @@ The following models were tested:
 
 ## 🚀 How to Run the Project
 
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/Mansi111000/Real_Estate_Price_Prediction_ML.git
-cd Real_Estate_Price_Prediction_ML
-```
-
-### Step 2: Install Dependencies
+### Step 1: Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
@@ -174,9 +168,6 @@ Real_Estate_Price_Prediction_ML/
 ---
 
 ## 👥 Contributors
-
-- **Mansi111000** - [GitHub Profile](https://github.com/Mansi111000)
-- **VedantPancholi** - [GitHub Profile](https://github.com/VedantPancholi)
 
 > ⭐ Feel free to fork, star, and contribute!
 
