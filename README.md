@@ -167,9 +167,6 @@ Real_Estate_Price_Prediction_ML/
 
 ---
 
-## 👥 Contributors
-
-> ⭐ Feel free to fork, star, and contribute!
 
 
 
